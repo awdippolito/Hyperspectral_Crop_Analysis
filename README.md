@@ -9,4 +9,4 @@ This directory contains the notebook used to analyze the data.  Numerous interac
 
 # requirements.txt
 This project was created by utilizing an Anaconda environment.  This environment and dependencies can be recreated by utilizing the following line of code.<br>
-$ conda create --name \<env> --file \<this file>
+$ conda create --name \<env_name> --file requirements.txt
