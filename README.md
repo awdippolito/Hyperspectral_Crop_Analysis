@@ -1,2 +1,2 @@
 # Hyperspectral_Crop_Analysis
-Hyperpectral Imagery of Agricultural Crops Analysis
+Hyperspectral Imagery of Agricultural Crops Analysis
